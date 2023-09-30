@@ -108,3 +108,34 @@ and uses the following library:
 
   new fairyDustCursor();
 </script>
+
+
+
+
+
+
+  <!-- 1 -->
+<div class="snowflake" style="--left: 69vw; --left-ini: -4vw; --left-end: 0vw; --speed: 8s; --size: 0.4vw; --delay: -10s;"></div>
+...
+...
+...
+<!-- 50 -->
+<div class="snowflake" style="--left: 83vw; --left-ini: 5vw; --left-end: 1vw; --speed: 10s; --size: 0.2vw; --delay: -6s;"></div>
+
+  - function random(num) { return Math.floor(Math.random() * num) }
+- for (i = 0; i < 50; i++)
+  div(class="snowflake", style=`--left: ${random(100)}vw; --left-ini: ${random(20) - 10}vw; --left-end: ${random(20) - 10}vw; --speed: ${5 + random(15)}s; --size: ${random(5) * 0.2}vw; --delay: -${random(15)}s;`)
+
+  .snowflake {
+  width: var(--size);
+  height: var(--size);
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  top: -5vh;
+  left: var(--left);
+  animation: snowfall var(--speed) linear infinite;
+  animation-delay: var(--delay);
+}
+
+  
