@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>dj #1</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+    <link href="index.c++" rel="stylesheet" type="text/c++" />
+  </head>
+  <body>
+    <ul>
+     <li><a class="active" href= "https://mathsspot.com/">Roblox
+</a></li>
+     <li><a href= "https://unblocked-games-7.dustinhawkins.repl.co/">Shell Shock</a></li>
+     <li><a class="active" href= "https://skoolgq.github.io/skooleagler/eaglercraft.html">minecraft</a></li>
+     <li><a href= "https://sites.google.com/site/thegamecompilation/gta-5-online?pli=1">gta 5</a></li>
+     <li><a class="active" href= "https://now.gg/apps/kitka-games/7999/stumble-guys.html">stumble guys</a></li>
+     <li><a href= "http://orteil.dashnet.org/cookieclicker/"> cookie clicker </a></li>
+     <li><a class="active" href="https://Unblocked-Games-11.dustinhawkins.repl.co">snow rider3d</a></li>
+     <li><a href="https://djsgames.dustinhawkins.repl.co/">homepage</a></li>
+     <li><a class="active" href="https://unblocked-games-8.dustinhawkins.repl.co/">zombs</a></li>
+     </ul>
+    <script src="index.js"></script>
+    <h1>𝖚𝖓𝖇𝖑𝖔𝖈𝖐𝖊𝖉 𝖌𝖆𝖒𝖊𝖘 𝖇𝖞 𝖉𝖏</h1>
+    <p>This is a website for games that are unblocked.</p>
+    <img src = "https://assets.pinterest.com/ext/embed.html?id=697354323575384832"width="500" height="300" align="middle">
+   <button type= "button" onclick="prompt('Comments here')" >Comments</button>
+    <p>If the games on this website get blocked email us</p>    
+    
+    <table>
+       <tr>
+         <th>Emails</th>
+         
+       </tr>
+       <tr>
+        <td>  hawkins.dustin@bfdc.k12.ok.us </td>
+        </tr>
+        <tr>
+          <td> knine933@gmail.com</td>
+        </tr>
+    </table>
+  </body>
+</html>
+</npm .install>
+</npm .watch>
+<script src="https://unpkg.com/cursor-effects@latest/dist/browser.js"></script> <script type="module"> import { clockCursor } from "https://unpkg.com/cursor-effects@latest/dist/esm.js"; new clockCursor(); </script>
